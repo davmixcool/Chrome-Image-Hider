@@ -11,9 +11,9 @@ On the shell run the following commands:
 
 ## Usage
 
-- Luanch your chrome browser
+- Launch your chrome browser
 
-Luanch your chrome browser and enter; 
+Launch your chrome browser and enter; 
 
 `chrome://extensions`
 
